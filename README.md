@@ -1,6 +1,4 @@
 ## Welcome! 👋
 
-- 🔭 I’m currently working on heterogenous agent models with sequence space jacobians, Bayesian Econometrics, and DSGE models.
-- 🌱 I’m currently learning the literature behind HANK models on the macro side and long run restrictions on the time series side.
-- 💬 Ask me about Time Series Econometrics.
+- 🔭 My research interests are Econometrics, Macro-Finance, Macroeconomics, and Monetary Policy.
 - 📈 Current appointment: Macro and Quantitative Studies, Federal Reserve Board | Previously: Senior Research Analyst, Federal Reserve Bank of New York (Time Series Analysis Team)
