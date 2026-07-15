@@ -1,4 +1,6 @@
-## Welcome! 👋
+- 🎓 PhD student in Economics at the University of Pennsylvania
+- 📊 Research interests: Econometrics & Macro-Finance
 
-- 🔭 Research interests: Econometrics and Macro-Finance.
-- 📈 Current appointment: Macro and Quantitative Studies, Federal Reserve Board | Previously: Senior Research Analyst, Federal Reserve Bank of New York (Time Series Analysis Team)
+**Prior to Penn:**
+- 🏦 Senior Research Analyst, Federal Reserve Bank of New York (Time Series Analysis Team)
+- 🏦 Macroeconomic & Quantitative Studies, Federal Reserve Board
