@@ -6,5 +6,5 @@
 Previously,
 
 - 🏛️ Senior Research Analyst, Federal Reserve Bank of New York (Time Series Analysis Team)
-- 🏛️ Macroeconomic & Quantitative Studies, Federal Reserve Board 
+- 🏛️ Macroeconomic & Quantitative Studies section, Federal Reserve Board 
 
