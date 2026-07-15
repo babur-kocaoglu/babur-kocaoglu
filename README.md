@@ -1,4 +1,4 @@
-## 👋
+## Welcome! 👋
 - 🎓 PhD student in Economics at the University of Pennsylvania
 - 📊 Research interests: Econometrics & Macro-Finance
 
